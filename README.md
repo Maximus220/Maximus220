@@ -6,5 +6,5 @@ I'm a young **French Student** planning to continue his studies in the United Ki
   I also learn other languages that I'll use for future projects.
 
 ## 📢 Contact me
-[![Twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png")](https://twitter.com/Maximus22_)
-[![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-new-logo.png")] ``@Maxime ・ マキシム#9555``
+[![Twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/Maximus22_)
+[![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-new-logo.png)] ``@Maxime ・ マキシム#9555``
