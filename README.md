@@ -1,5 +1,5 @@
 # 👋 Maxime,
-I'm a young **French Student** planning to continue his studies in the United Kingdom in Engineering. I've already done multiples software and am working on some AI libs and programs.
+I'm a young **French Student** planning to continue my studies in Engineering. I've already made multiples software and am working on some AI libs and programs.
 
 ## 📜 Languages I use
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "Java")
