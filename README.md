@@ -1,16 +1,50 @@
 # 👋 Maxime,
-I'm a young **French Student** planning to continue my studies in Engineering. I've already made multiples software and am working on some AI libs and programs.
+I'm a young **French Student** interested by the engineering world! I use my time to create things via programming and video editing.
 
-## 📜 Languages I use
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png "Java")
-![HTML](https://img.icons8.com/color/48/000000/html-5.png "HTML")![CSS](https://img.icons8.com/color/48/000000/css3.png "CSS")
-![JavaScript](https://img.icons8.com/color/48/000000/javascript-logo-1.png "JavaScript")
-![C](https://img.icons8.com/color/48/000000/c-programming.png "C")  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus220&layout=compact)](https://github.com/Maximus220)    
-I also learn other languages that I'll use for future projects.
+## 📜 Presentation.json
+```json
+{
+    "🧔 IRL": {
+        "name": "Maxime",
+        "age": null,
+        "country": "France 🇫🇷",
+        "languages_I_speak": {
+            "🇫🇷 French": "C2 | Native - Fluent",
+            "🇬🇧 English": "C1 | Almost fluent",
+            "🇪🇸 Spanish": "B1 | Intermediate",
+            "🇯🇵 Japanese": "A1 | Beginner",
+            "🇩🇪 German": "A0 | Learning"
+        }
+    },
+    "💬 Programming_Languages": {
+        "JavaScript": "All kinds of projects such as AI, Maze-Solver, applications, ...",
+        "Java": "Windows softwares",
+        "HTML | CSS": "Websites & Electron applications",
+        "C": "Arduino & console games",
+        "Python": "Algorithms",
+        "C++": "Learning..."
+    }
+}
+```
+
+## 📁 Some of my projects
+
+[**🐦 Flappy Bird AI**](https://github.com/Maximus220/FlappyBirdAI) : Get over __1,000 points__ on Flappy Bird in __5 minutes__ using my Flappy Bird AI!
+
+[**📜 Website Features for developpers**](https://github.com/Maximus220/website-features) : Find many free-to-use __special features__ for your website!
+
+[*(WIP)* **🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution!
+
+[*(WIP)* **🧠 Neural Network JS**]() : __Make__ your own __Neural Network__ with only __7 lines__ of code using Neural-Network-JS!
+
+[*(WIP)* **🎵 Spotify Arduino**](https://github.com/Maximus220/music-arduino) : __Make__ your own Spotify __visualizer & interactor__ with your __Arduino__!
+
+**🎉 Check out my repositories to see more!**
 
 ## 📢 Contact me
-[![Twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png "Twitter")](https://twitter.com/Maximus22_)
-![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-new-logo.png "Discord") ``@Maxime ・ マキシム#9555``
 
-### 📔 Temporary profile ReadMe
+I'm very active on my [Professional Twitter account](https://twitter.com/Maximus_pro_) about all my programming and video editing projects.
+
+I also have a [Second Twitter Account](https://twitter.com/Maximus22_) where I tweet about everything.
+
+However, the best way to contact me still via Discord : ``@Maxime ・ マキシム#9555``.
