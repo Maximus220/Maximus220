@@ -33,7 +33,7 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 [**📜 Website Features for developpers**](https://github.com/Maximus220/website-features) : Find many free-to-use __special features__ for your website!
 
-[*(WIP)* **🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution!
+[**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution!
 
 [*(WIP)* **🧠 Neural Network JS**]() : __Make__ your own __Neural Network__ with only __7 lines__ of code using Neural-Network-JS!
 
