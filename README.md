@@ -29,7 +29,7 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 ## 📁 Some of my projects
 
-[**🐦 Flappy Bird AI**](https://github.com/Maximus220/FlappyBirdAI) : Get over __1,000 points__ on Flappy Bird in __5 minutes__ using my Flappy Bird AI! [*Try here!*](https://maximus220.github.io/FlappyBirdAI/)
+[**🐦 Flappy Bird AI**](https://github.com/Maximus220/FlappyBirdAI) : Get over __1,000 points__ on Flappy Bird within __5 minutes__ using my Flappy Bird AI! [*Try here!*](https://maximus220.github.io/FlappyBirdAI/)
 
 [**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution! [*Try here!*](https://maximus220.github.io/maze-solver/)
 
@@ -37,7 +37,7 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 [*(WIP)* **🧠 Neural Network JS**]() : __Make__ your own __Neural Network__ with only __7 lines__ of code using Neural-Network-JS!
 
-[*(WIP)* **🎵 Spotify Arduino**](https://github.com/Maximus220/music-arduino) : __Make__ your own Spotify __visualizer & interactor__ with your __Arduino__!
+[*(WIP)* **🎵 Spotify Arduino**](https://github.com/Maximus220/music-arduino) : __Make__ your own Spotify __visualizer & interactor__ with your an __Arduino__!
 
 **🎉 Check out my repositories to see more!**
 
