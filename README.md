@@ -29,9 +29,9 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 ## 📁 Some of my projects
 
-[**🐦 Flappy Bird AI**](https://github.com/Maximus220/FlappyBirdAI) : Get over __1,000 points__ on Flappy Bird in __5 minutes__ using my Flappy Bird AI!
+[**🐦 Flappy Bird AI**](https://github.com/Maximus220/FlappyBirdAI) : Get over __1,000 points__ on Flappy Bird in __5 minutes__ using my Flappy Bird AI! [*Try here!*](https://maximus220.github.io/FlappyBirdAI/)
 
-[**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution!
+[**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution! [*Try here!*](https://maximus220.github.io/maze-solver/)
 
 [**📜 Website Features for developpers**](https://github.com/Maximus220/website-features) : Find many free-to-use __special features__ for your website!
 
