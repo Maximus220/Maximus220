@@ -29,7 +29,7 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 ## 📁 Some of my projects
 
-[**🚗 Car AI**](https://github.com/Maximus220/car-ai/) : Teacg a __car__ to drive from __scratch__! [*Try here!*](https://maximus220.github.io/car-ai/)
+[**🚗 Car AI**](https://github.com/Maximus220/car-ai/) : Teach a __car__ to drive from __scratch__! [*Try here!*](https://maximus220.github.io/car-ai/)
 
 [**🐦 Flappy Bird AI**](https://github.com/Maximus220/flappy-bird-ai/) : Get over __1,000 points__ on Flappy Bird within __5 minutes__ using my Flappy Bird AI! [*Try here!*](https://maximus220.github.io/flappy-bird-ai/)
 
