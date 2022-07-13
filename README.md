@@ -20,20 +20,20 @@ I'm a young **French Student** interested by the engineering world! I use my tim
         "JavaScript": "All kinds of projects such as AI, Maze-Solver, applications, ...",
         "Java": "Windows softwares",
         "HTML | CSS": "Websites & Electron applications",
-        "C": "Arduino & console games",
-        "Python": "Algorithms",
-        "C++": "Learning..."
+        "C": "Arduino projects & console games",
+        "Python": "Algorithms, AI (TensorFlow, Kera, Numpy, ...), NLP",
+        "C++": "Unity, SFML basics"
     }
 }
 ```
 
 ## 📁 Some of my projects
 
+[**🚗 Car AI**](https://github.com/Maximus220/car-ai/) : Teacg a __car__ to drive from __scratch__! [*Try here!*](https://maximus220.github.io/car-ai/)
+
 [**🐦 Flappy Bird AI**](https://github.com/Maximus220/flappy-bird-ai/) : Get over __1,000 points__ on Flappy Bird within __5 minutes__ using my Flappy Bird AI! [*Try here!*](https://maximus220.github.io/flappy-bird-ai/)
 
 [**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution! [*Try here!*](https://maximus220.github.io/maze-solver/)
-
-[**📜 Website Features for developpers**](https://github.com/Maximus220/website-features) : Find many free-to-use __special features__ for your website!
 
 [*(WIP)* **🧠 Neural Network JS**]() : __Make__ your own __Neural Network__ with only __7 lines__ of code using Neural-Network-JS!
 
