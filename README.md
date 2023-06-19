@@ -1,5 +1,5 @@
 # 👋 Maxime,
-I'm a young **French Student** interested by the engineering world! I use my time to create things via programming and video editing.
+I'm a young **French Student** interested in the engineering world! I use my time to create things via programming and video editing. You can discover all sorts of projects I've made on my website: [here](https://maxime.click/)
 
 ## 📜 Presentation.json
 ```json
@@ -12,13 +12,12 @@ I'm a young **French Student** interested by the engineering world! I use my tim
             "🇫🇷 French": "C2 | Native - Fluent",
             "🇬🇧 English": "C1 | Almost fluent",
             "🇪🇸 Spanish": "B1 | Intermediate",
-            "🇯🇵 Japanese": "A1 | Beginner",
-            "🇩🇪 German": "A0 | Learning"
+            "🇯🇵 Japanese": "N5 | Beginner"
         }
     },
     "💬 Programming_Languages": {
         "JavaScript": "All kinds of projects such as AI, Maze-Solver, applications, ...",
-        "Java": "Windows softwares",
+        "Java": "Windows software",
         "HTML | CSS": "Websites & Electron applications",
         "C": "Arduino projects & console games",
         "Python": "Algorithms, AI (TensorFlow, Kera, Numpy, ...), NLP",
@@ -35,16 +34,12 @@ I'm a young **French Student** interested by the engineering world! I use my tim
 
 [**🔐 Maze Solver**](https://github.com/Maximus220/maze-solver) : __Generate__ and __solve__ mazes with the best solution! [*Try here!*](https://maximus220.github.io/maze-solver/)
 
-[*(WIP)* **🧠 Neural Network JS**]() : __Make__ your own __Neural Network__ with only __7 lines__ of code using Neural-Network-JS!
+[*(WIP)* **🕵️ Instagram Tool**]() : Follow your friends' actions on Instagram, read your direct messages without being seen, download their content, and more! (OSINT project)
 
-[*(WIP)* **🎵 Spotify Arduino**](https://github.com/Maximus220/music-arduino) : __Make__ your own Spotify __visualizer & interactor__ with your an __Arduino__!
-
-**🎉 Check out my repositories to see more!**
+**🎉 Check out my repositories or my [__website__](https://maxime.click/) to see more!**
 
 ## 📢 Contact me
 
 I'm very active on my [Professional Twitter account](https://twitter.com/Maximus_pro_) about all my programming and video editing projects.
 
-I also have a [Second Twitter Account](https://twitter.com/Maximus22_) where I tweet about everything.
-
-However, the best way to contact me still via Discord : ``@Maxime ・ マキシム#9555``.
+However, the best way to contact me is still via Discord: ``@Maximus22_``.
